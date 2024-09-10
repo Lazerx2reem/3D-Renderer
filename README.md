@@ -1,3 +1,3 @@
 # 3D-Renderer
 
-We start by casting rays from the camera to the image plane. We first build the foundation for a ray tracer
+First of all, we want to put at least something on screen. For that we will use an application with our rendered image and two sliders to adjust its rotation.
